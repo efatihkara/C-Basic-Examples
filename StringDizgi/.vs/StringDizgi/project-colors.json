@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7f9ec9f3-bca3-40cd-be35-314fa7bcd5fe": {
+      "ProjectGuid": "7f9ec9f3-bca3-40cd-be35-314fa7bcd5fe",
+      "DisplayName": "StringDizgi",
+      "ColorIndex": 0
+    },
+    "9427f9e3-f943-4b38-a7d6-20c26a3369c0": {
+      "ProjectGuid": "9427f9e3-f943-4b38-a7d6-20c26a3369c0",
+      "DisplayName": "StringCopy",
+      "ColorIndex": 1
+    },
+    "9ea980af-d5a9-491b-890c-8e9c0844f14c": {
+      "ProjectGuid": "9ea980af-d5a9-491b-890c-8e9c0844f14c",
+      "DisplayName": "StringFx",
+      "ColorIndex": 2
+    },
+    "cbd01acf-4f97-4cdf-9564-0e99bc3d44f4": {
+      "ProjectGuid": "cbd01acf-4f97-4cdf-9564-0e99bc3d44f4",
+      "DisplayName": "StringFark",
+      "ColorIndex": 3
+    },
+    "5a0e7e66-54ed-41d5-9104-904432a229bb": {
+      "ProjectGuid": "5a0e7e66-54ed-41d5-9104-904432a229bb",
+      "DisplayName": "Palindrome",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

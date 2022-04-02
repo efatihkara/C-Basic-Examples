@@ -1,0 +1,3 @@
+﻿  Malloc.cpp
+C:\Users\DELL\source\repos\Malloc\Malloc.cpp(12,9): warning C4101: 'a': yerel değişken başvurusu kaldırıldı
+C:\Users\DELL\source\repos\Malloc\Malloc.cpp(7): error C4716: 'f' : bir değer döndürmelidir

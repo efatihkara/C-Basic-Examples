@@ -1,0 +1,4 @@
+﻿  StringFx.cpp
+C:\Users\DELL\source\repos\StringFx\StringFx.cpp(53,46): error C2440: 'başlatılıyor': 'const char *' - 'char *' dönüşümü yapılamıyor
+C:\Users\DELL\source\repos\StringFx\StringFx.cpp(53,10): message : Dönüştürme niteleyicileri kaybediyor
+C:\Users\DELL\source\repos\StringFx\StringFx.cpp(54,2): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.

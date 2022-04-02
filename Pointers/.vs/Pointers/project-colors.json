@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f06168bb-4b74-4636-8063-2dfde887e5cf": {
+      "ProjectGuid": "f06168bb-4b74-4636-8063-2dfde887e5cf",
+      "DisplayName": "Pointers",
+      "ColorIndex": 0
+    },
+    "6f12c686-f8db-47fa-93c2-12d57e24082f": {
+      "ProjectGuid": "6f12c686-f8db-47fa-93c2-12d57e24082f",
+      "DisplayName": "ArraysPointers",
+      "ColorIndex": 1
+    },
+    "11292e83-26c2-4beb-8329-8c6fa9324cad": {
+      "ProjectGuid": "11292e83-26c2-4beb-8329-8c6fa9324cad",
+      "DisplayName": "FxwithPointers",
+      "ColorIndex": 2
+    },
+    "bc10efc0-e358-487e-b985-181e154ba8cc": {
+      "ProjectGuid": "bc10efc0-e358-487e-b985-181e154ba8cc",
+      "DisplayName": "Malloc",
+      "ColorIndex": 3
+    },
+    "1102d2bf-0782-460c-89aa-d4c3a9bd6eec": {
+      "ProjectGuid": "1102d2bf-0782-460c-89aa-d4c3a9bd6eec",
+      "DisplayName": "ArhtPointers",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

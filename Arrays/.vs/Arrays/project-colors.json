@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cb76c8d0-16aa-424a-a280-1886bf0ea766": {
+      "ProjectGuid": "cb76c8d0-16aa-424a-a280-1886bf0ea766",
+      "DisplayName": "Arrays",
+      "ColorIndex": 0
+    },
+    "6ca6f75c-40c0-436e-ad5d-f715c99410bf": {
+      "ProjectGuid": "6ca6f75c-40c0-436e-ad5d-f715c99410bf",
+      "DisplayName": "AortGeort",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

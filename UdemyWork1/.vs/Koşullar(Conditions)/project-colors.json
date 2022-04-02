@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3f74bed9-91c0-4973-a4e7-a6d910219922": {
+      "ProjectGuid": "3f74bed9-91c0-4973-a4e7-a6d910219922",
+      "DisplayName": "UdemyWork1",
+      "ColorIndex": 0
+    },
+    "ffe708a0-2619-441f-8ced-dfb4ae957b44": {
+      "ProjectGuid": "ffe708a0-2619-441f-8ced-dfb4ae957b44",
+      "DisplayName": "UdemyWork2",
+      "ColorIndex": 1
+    },
+    "525c76a0-6e2e-4228-b2af-8fbd14ce44bc": {
+      "ProjectGuid": "525c76a0-6e2e-4228-b2af-8fbd14ce44bc",
+      "DisplayName": "Dik Üçgenin Alanı ve Çevresi",
+      "ColorIndex": 2
+    },
+    "2f286017-8cff-4e3b-b140-f278248216a9": {
+      "ProjectGuid": "2f286017-8cff-4e3b-b140-f278248216a9",
+      "DisplayName": "Yol Hız Problemleri",
+      "ColorIndex": 3
+    },
+    "47543f70-6b16-47b7-9175-a01bc19e2ebb": {
+      "ProjectGuid": "47543f70-6b16-47b7-9175-a01bc19e2ebb",
+      "DisplayName": "Dik Üçgen Kontrolü",
+      "ColorIndex": 4
+    },
+    "b05889a1-2967-4ceb-a4c4-26866a6202d7": {
+      "ProjectGuid": "b05889a1-2967-4ceb-a4c4-26866a6202d7",
+      "DisplayName": "RecursiveFx",
+      "ColorIndex": 5
+    },
+    "181ca233-952d-480a-84d2-591ce5378bd7": {
+      "ProjectGuid": "181ca233-952d-480a-84d2-591ce5378bd7",
+      "DisplayName": "HarfPiramidi",
+      "ColorIndex": 6
+    },
+    "9fe7ee74-fc5e-4d27-b0a1-75e66995d322": {
+      "ProjectGuid": "9fe7ee74-fc5e-4d27-b0a1-75e66995d322",
+      "DisplayName": "RecursiveFxx",
+      "ColorIndex": 7
+    },
+    "6a444e05-0ed7-40f2-b154-608b093f6327": {
+      "ProjectGuid": "6a444e05-0ed7-40f2-b154-608b093f6327",
+      "DisplayName": "RandomNumberG",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}

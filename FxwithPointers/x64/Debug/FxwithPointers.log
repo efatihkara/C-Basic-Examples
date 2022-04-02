@@ -1,0 +1,3 @@
+﻿  FxwithPointers.cpp
+C:\Users\DELL\source\repos\FxwithPointers\FxwithPointers.cpp(9): error C4716: 'g' : bir değer döndürmelidir
+C:\Users\DELL\source\repos\FxwithPointers\FxwithPointers.cpp(14): error C4716: 'f' : bir değer döndürmelidir

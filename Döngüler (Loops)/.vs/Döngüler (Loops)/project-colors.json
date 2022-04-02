@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cfac00a-0b4e-4b92-82c2-5ccc2592648c": {
+      "ProjectGuid": "5cfac00a-0b4e-4b92-82c2-5ccc2592648c",
+      "DisplayName": "Döngüler (Loops)",
+      "ColorIndex": 0
+    },
+    "14827d51-25f4-48f2-bb43-da17c0cbd789": {
+      "ProjectGuid": "14827d51-25f4-48f2-bb43-da17c0cbd789",
+      "DisplayName": "For Döngüsü",
+      "ColorIndex": 1
+    },
+    "ce700013-e66e-485f-831c-ff8af217cc73": {
+      "ProjectGuid": "ce700013-e66e-485f-831c-ff8af217cc73",
+      "DisplayName": "do-while-loops",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

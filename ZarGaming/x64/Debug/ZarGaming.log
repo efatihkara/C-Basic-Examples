@@ -1,0 +1,12 @@
+﻿  ZarGaming.cpp
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(12,12): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(14,8): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(14,8): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(14,8): message : 'n' kullanımına bakın
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(15,8): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(15,8): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(15,8): message : 'n' kullanımına bakın
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(20,8): error C3863: 'int [n]' dizi türü atanabilir değil
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(21,8): error C3863: 'int [n]' dizi türü atanabilir değil
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(33,16): warning C4552: '<<': ifade sonucu kullanılmıyor
+C:\Users\DELL\source\repos\ZarGaming\ZarGaming.cpp(38,16): warning C4552: '<<': ifade sonucu kullanılmıyor
